@@ -11,9 +11,14 @@ XSOverrayは有料(執筆時1,010円)ですが、買って損はありません�
 
 
 ## 自動起動設定
-  
+両アプリを、SteamVRが起動した際に自動起動するように設定します。
+
+![](./img/0001.png)
+
+![](./img/0002.png)
+
+![](./img/0003.png) 
+
 ## XSOverray
 
 ## OVR Advanced Settings
-
-  
