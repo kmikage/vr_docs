@@ -28,6 +28,6 @@ VRChatを起動すると、左手に時計やコントローラーの電池残�
 
 ![](https://metacul-frontier.com/wp-content/uploads/2023/03/cf5f11e7745bb6d17ef8d9c05aff3b17-1024x576.jpg)
 
-[画像引用元](https://metacul-frontier.com/?p=4921)
+[詳細はこのページが詳しいです。](https://metacul-frontier.com/?p=4921)
 
 ## OVR Advanced Settings
